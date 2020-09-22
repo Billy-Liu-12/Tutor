@@ -199,4 +199,4 @@ def bucket_sort(the_list):
 
 
 a = [10, 5, 2, 3, 7, 4, 8, 1, 6, 9]
-print(bubble_sort(a))
+print(bucket_sort(a))

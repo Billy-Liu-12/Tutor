@@ -6,3 +6,10 @@ user1 = 'Billy'
 user2 = 'Alice'
 
 print(f'{user1} 对 {user2} 说："你好"')
+
+f = open('readme.md', mode='w', encoding='utf-8')
+f.write('hello world')
+
+# s = f.read()
+# print(s)
+# f.close()
